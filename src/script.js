@@ -1,4 +1,4 @@
-const WSpace = require ('./helpers/helper.wspace')
+const WSpace = require ('./core/core.wspace')
 
 function Script (specification) {
     let {description} = specification
